@@ -1,0 +1,9 @@
+streamlit
+langchain
+chromadb
+pypdf
+python-docx
+odfpy
+langchain-community
+deep-translator
+requests
